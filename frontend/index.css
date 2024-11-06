@@ -1,0 +1,22 @@
+.form-check-label {
+    word-break: break-word;
+    margin-left: 8px;
+}
+
+.list-group-item {
+    margin-bottom: 8px;
+    border-radius: 4px !important;
+}
+
+.spinner-border {
+    margin: 20px 0;
+}
+
+.btn-danger {
+    padding: 2px 8px;
+    font-size: 0.8rem;
+}
+
+.form-check-input:checked + .form-check-label {
+    color: #6c757d;
+}
